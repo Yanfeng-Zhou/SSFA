@@ -6,13 +6,13 @@ This is the official code of [A Semi-Supervised Fracture-Attention Model for Seg
 ## Our Contributions
 **- Semi-Supervised Fracture-Attention Model (SSFA)**
 <p align="center">
-<img src="https://i.postimg.cc/Mptz9DBJ/figure-1.png#pic_center" width="100%" ></img>
+<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Overview.png" width="100%" ></img>
 <center>Overview of SSFA.</center>
 </p>
 
 **- More Intuitive Topological Evaluation Metric: Fracture Rate (FR)**
 <p align="center">
-<img src="https://i.postimg.cc/W1ksvkhh/figure-2.png#pic_center" width="50%" >
+<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Fracture%20Rate.png" width="50%" >
 <center>Visualization of fractures in segmentation results.</center>
 </p>
 
@@ -22,13 +22,13 @@ $$
 
 ## Quantitative Comparison
 <p align="center">
-<img src="https://github.com/Yanfeng-Zhou/GobletNet/blob/main/figure/Comparison%20results%20on%20EPFL%2C%20%20CREMI%2C%20SNEMI3D%20and%20UroCell.png" width="100%" >
+<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Quantitative%20Comparison.png" width="100%" >
 </p>
 
 
 ## Qualitative Comparison
 <p align="center">
-<img src="https://github.com/Yanfeng-Zhou/GobletNet/blob/main/figure/Qualitative%20Comparison.png" width="100%" >
+<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Qualitative%20Comparison.png" width="100%" >
 <br>Qualitative results on ER, SNEMI3D, CREMI and STARE-DRIVE. (a) Raw images. (b) Ground truth. (c) UNet. (d) TopoLoss. (e) clDice. (f) MT. (g) CPS. (h) SSFA. Red arrows highlight differences among the results.
 </p>
 
