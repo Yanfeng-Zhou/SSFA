@@ -6,14 +6,14 @@ This is the official code of [A Semi-Supervised Fracture-Attention Model for Seg
 ## Our Contributions
 **- Semi-Supervised Fracture-Attention Model (SSFA)**
 <p align="center">
-<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Overview.png" width="100%" ></img>
-<center>Overview of SSFA.</center>
+<img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Overview.png" width="100%" >
+<br>Overview of SSFA.
 </p>
 
 **- More Intuitive Topological Evaluation Metric: Fracture Rate (FR)**
 <p align="center">
 <img src="https://github.com/Yanfeng-Zhou/SSFA/blob/main/figure/Fracture%20Rate.png" width="50%" >
-<center>Visualization of fractures in segmentation results.</center>
+<br>Visualization of fractures in segmentation results.
 </p>
 
 $$
